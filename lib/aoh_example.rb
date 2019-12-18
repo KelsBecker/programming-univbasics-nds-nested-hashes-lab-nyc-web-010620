@@ -14,7 +14,8 @@ end
 
 def literal_aoh
   nested_array = [
-    {:
+    {:name =>  "Don Gately", occupation: "Live-in Staff"},
+    
     ]
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
