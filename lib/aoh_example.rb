@@ -16,7 +16,8 @@ def literal_aoh
   nested_array = [
     {:name =>  "Don Gately", occupation: "Live-in Staff"},
     {:name =>  "Joelle van Dyne", occupation: "Radio Personality"},
-    {:name => 
+    {:name => "Pat Monteseian", occupation: "Staff"}
+    {:name =>
     ]
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
